@@ -274,7 +274,7 @@ mokkoji
         <br/>
         </td>
         <td>
-        <b>Infra</b><br>UCC 담당
+        <b>Infra</b><br>인프라 총괄<br>Nginx 서버 구축<br>CI/CD 구축
         <br/>
         </td>
         <td>
